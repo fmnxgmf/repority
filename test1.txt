@@ -1,2 +1,4 @@
 ﻿testfsfksf这是第一次
-develop
+develop    public void setId(Integer id) {
+        this.id = id;
+    }
